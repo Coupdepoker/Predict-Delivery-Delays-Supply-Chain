@@ -77,7 +77,7 @@ DataCo Global fait face à un problème de retards de livraison qui nuit à la s
 ```bash
 # Cloner le repo
 git clone https://github.com/Coupdepoker/Predict-Delivery-Delays-Supply-Chain.git
-cd predict-late-delivery
+cd Predict-Delivery-Delays-Supply-Chain
 
 # Lancer le notebook
 jupyter notebook Predict_Delivery_Delays_Supply_Chain.ipynb
